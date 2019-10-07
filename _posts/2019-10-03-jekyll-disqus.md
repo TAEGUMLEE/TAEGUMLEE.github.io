@@ -4,7 +4,7 @@ title: "지킬에 disqus 적용기"
 date: 2019-10-04
 excerpt: "지킬테마에 disqus 댓글 기능 적용하며 겪은 삽질 및 후기"
 tags: [sample post, readability, image, feature]
-feature: /assets/img/disqus.png
+feature: /assets/img/comment.jpg
 comments: true
 ---
 
